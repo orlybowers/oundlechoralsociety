@@ -1,24 +1,36 @@
-body {background-color:rgb(255, 243, 243)}
+.logo {
+    height:60px;
+    width:150px;
+}
+.nabar {
+    background-color: #a51f2f;
+    color: rgb(255, 243, 243);
+}
+body {
+    background-color:rgb(255, 243, 243);
+}
 .he1 {
     padding-top: 10px;
 }
 .bg1 {
     background-color: rgb(255, 243, 243);
     color: #a51f2f;
-    padding-bottom: 10px;
     width:80%;
 }
 .midban {
     background-color:#a51f2f;
     width:100%;
     height:fit-content;
+    color: rgb(255, 243, 243);
 }
 .bogrid {
-    padding-left:10px;
-    padding-right:10px;
     background-color: rgb(255, 243, 243);
 }
-.logo {
-    height:60px;
-    width:150px;
+.music {
+    background-color:#a51f2f;
+    color:rgb(255, 243, 243);
+}
+.contactus {
+    background-color:rgb(255, 243, 243);
+    color: #a51f2f;
 }
