@@ -12,5 +12,13 @@ body {background-color:rgb(255, 243, 243)}
     background-color:#a51f2f;
     width:100%;
     height:fit-content;
-    color: rgb(255, 243, 243);
+}
+.bogrid {
+    padding-left:10px;
+    padding-right:10px;
+    background-color: rgb(255, 243, 243);
+}
+.logo {
+    height:60px;
+    width:150px;
 }
