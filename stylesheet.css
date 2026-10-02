@@ -1,0 +1,16 @@
+body {background-color:rgb(255, 243, 243)}
+.he1 {
+    padding-top: 10px;
+}
+.bg1 {
+    background-color: rgb(255, 243, 243);
+    color: #a51f2f;
+    padding-bottom: 10px;
+    width:80%;
+}
+.midban {
+    background-color:#a51f2f;
+    width:100%;
+    height:fit-content;
+    color: rgb(255, 243, 243);
+}
