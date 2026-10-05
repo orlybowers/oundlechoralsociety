@@ -34,3 +34,15 @@ body {
     background-color:rgb(255, 243, 243);
     color: #a51f2f;
 }
+.imgsmall{
+    width:70%;
+}
+.topmarquee{
+    font-size: 30px;
+    color:#a51f2f;
+    font-weight: bolder;
+}
+.toptitle{
+    color:#a51f2f;
+    font-weight: bolder;
+}
